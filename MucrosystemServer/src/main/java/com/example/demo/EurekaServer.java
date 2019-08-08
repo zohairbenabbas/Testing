@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 @EnableEurekaServer
+error
 public class EurekaServer {
 
     public static void main(String[] args) {
